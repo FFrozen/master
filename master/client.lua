@@ -1,0 +1,2 @@
+-- __ Script is made by mta-sa.org community and is open source __--
+-- __ feel free to use it, but do not call it selfmade	__--
