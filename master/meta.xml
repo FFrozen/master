@@ -1,0 +1,8 @@
+<meta>
+<!-- Script is made by mta-sa.org community and is open source
+feel free to use it, but do not call it selfmade
+-->
+
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>
