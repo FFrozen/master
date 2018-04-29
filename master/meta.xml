@@ -5,4 +5,9 @@ feel free to use it, but do not call it selfmade
 
 	<script src="client.lua" type="client"/>
 	<script src="server.lua" type="server"/>
+
+	<!-- VEHICLE SYSTEM -->
+	<script src="vehicle\fly_water.lua" type="client"/>
+	<script src="vehicle\shoot.lua" type="client"/>
+	
 </meta>
